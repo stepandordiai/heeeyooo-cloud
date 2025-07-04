@@ -3,13 +3,11 @@ import "./App.scss";
 function App() {
 	return (
 		<>
-			<img src="/1.jpg" alt="" />
-			<img src="/2.jpg" alt="" />
-			<img src="/3.jpg" alt="" />
-			<img src="/4.jpg" alt="" />
-			<img src="/5.jpg" alt="" />
-			<img src="/6.jpg" alt="" />
-			<img src="/7.jpg" alt="" />
+			<img src="/01-c.png" alt="" />
+			<img src="/02-c.png" alt="" />
+			<img src="/03-c.png" alt="" />
+			<img src="/04-c.png" alt="" />
+			<img src="/05-c.png" alt="" />
 		</>
 	);
 }
