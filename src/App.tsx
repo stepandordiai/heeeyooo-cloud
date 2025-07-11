@@ -8,6 +8,7 @@ function App() {
 			<img src="/03-c.png" alt="" />
 			<img src="/04-c.png" alt="" />
 			<img src="/05-c.png" alt="" />
+			<img src="/06-c.jpg" alt="" />
 		</>
 	);
 }
