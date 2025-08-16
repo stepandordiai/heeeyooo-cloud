@@ -11,6 +11,8 @@ function App() {
 			<img src="/06-c.jpg" alt="" />
 			<img src="/07-c.jpg" alt="" />
 			<img src="/08-c.jpg" alt="" />
+			<img src="/09-c.jpg" alt="" />
+			<img src="/10-c.jpg" alt="" />
 		</>
 	);
 }
